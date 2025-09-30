@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Web Development",
+        "image": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg",
+        "description": "Web development is the process of building websites and web apps, combining frontend (design, user interface) and backend (server, database, logic) to create functional, interactive, and user-friendly digital experiences."
+    },
+    
+    {
+        "id": 2,
+        "title": "App Development",
+        "image": "https://images.pexels.com/photos/4549408/pexels-photo-4549408.jpeg",
+        "description": "App development is the process of designing, creating, and maintaining mobile or desktop applications, combining user interface, functionality, and backend services to deliver seamless, efficient, and engaging digital experiences for users."
+    },
+    
+    {
+        "id": 3,
+        "title": "Software Development",
+        "image": "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg",
+        "description": "Software development is the process of designing, coding, testing, and maintaining applications or systems, using programming languages and methodologies to solve problems, automate tasks, and deliver efficient, user-focused digital solutions."
+    },
+    
+    {
+        "id": 4,
+        "title": "Graphic Design",
+        "image": "",
+        "description": "A graphic designer creates visual content to communicate ideas, combining typography, imagery, color, and layout. They design logos, posters, websites, and branding materials to deliver engaging, clear, and impactful visual messages."
+    },
+    
+    {
+        "id": 5,
+        "title": "Digital Marketing ",
+        "image": "https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/",
+        "description": "Digital marketing promotes products or services using online platforms like social media, search engines, email, and websites. It helps businesses connect with audiences, build brand awareness, and drive sales through targeted strategies."
+    },
+    
+    {
+        "id": 6,
+        "title": "mzr content",
+        "image": "https://www.pexels.com/photo/female-engineer-planning-dam-3862379/",
+        "description": "Sales involve promoting and selling products or services by understanding customer needs, building relationships, and providing solutions. It drives revenue, builds trust, and supports business growth through effective communication and negotiation."
+    }
+    
+]
